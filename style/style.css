@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     box-sizing: border-box;
 }
+
 
 @font-face {
     font-family: 'FineSerif';
@@ -12,10 +15,43 @@
 body{
     margin: 0;
 
-    background-color: #ADC8D4;
+    background-color: #CFC8B4;
     color: #D9A13B;
 }
 
 h1{
     font-family: 'FineSerif';
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+    text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
 }
+
+.cabecalho{
+    background-color:#53684B;
+    color: rgb(248, 230, 230);
+    text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
+
+
+    padding: 30px 50px 50px 50px;
+}
+
+.etiqueta{
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-align: center;
+    font-family:'Montserrat';
+    text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
+
+}
+
+.subtitulo{
+    text-align: center;
+    font-family:'Montserrat';
+    text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
+
+}
+
+
+
