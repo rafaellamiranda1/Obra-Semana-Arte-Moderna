@@ -29,6 +29,19 @@ h1{
     text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
 }
 
+h2{
+    text-align: left;
+    font-family: 'Montserrat';
+    padding: 20px 450px;
+    padding-bottom: 5px;
+    font-weight:bolder;
+}
+
+.obra{
+    text-align: left;
+    padding: 20px 450px;
+}
+
 a{
     color: #162A30;
     font-family: 'Montserrat';
@@ -69,6 +82,7 @@ img{
     margin-top: 5px;
     text-align: center;
     color: #53684B;
+    margin-bottom: 30px;
 }
 
 .rodape{
