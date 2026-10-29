@@ -17,6 +17,7 @@ body{
 
     background-color: #CFC8B4;
     color: #162A30;
+    font-family: 'Montserrat';
 }
 
 h1{
@@ -32,6 +33,7 @@ a{
     color: #162A30;
     font-family: 'Montserrat';
 }
+
 
 .cabecalho{
     background-color:#53684B;
@@ -58,8 +60,16 @@ a{
 
 }
 
+img{
+    padding: 20px 450px;
+    
+}
 
-
+.descricao{
+    margin-top: 5px;
+    text-align: center;
+    color: #53684B;
+}
 
 .rodape{
     margin-top: 40px;
