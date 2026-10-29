@@ -16,7 +16,7 @@ body{
     margin: 0;
 
     background-color: #CFC8B4;
-    color: #D9A13B;
+    color: #162A30;
 }
 
 h1{
@@ -26,6 +26,11 @@ h1{
     margin-bottom: 30px;
     letter-spacing: 1px;
     text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
+}
+
+a{
+    color: #162A30;
+    font-family: 'Montserrat';
 }
 
 .cabecalho{
@@ -51,6 +56,22 @@ h1{
     font-family:'Montserrat';
     text-shadow: 0 10px  20px rgba(20, 45, 70, 0.08);
 
+}
+
+
+
+
+.rodape{
+    margin-top: 40px;
+    padding: 25px;
+    background-color: #53684B;
+    text-align: center;
+    font-family: 'Montserrat';
+
+}
+
+.rodape address{
+    font-style: normal;
 }
 
 
