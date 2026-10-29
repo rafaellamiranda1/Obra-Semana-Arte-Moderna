@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'FineSerif';
+    src: url(../fontes/FineSerif-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    margin: 0;
+
+    background-color: #ADC8D4;
+    color: #D9A13B;
+}
+
+h1{
+    font-family: 'FineSerif';
+}
